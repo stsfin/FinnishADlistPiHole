@@ -1,10 +1,12 @@
 # Title: Finnish Block list
 # Description: Filter Finnish lists
 # Last modified: Mon, 12 Sep 2019, 17:13 UTC+02
-# Version: 2019.9.12.4
+# Version: 2019.9.12.5
 # Repository: https://github.com/stsfin/FinnishADlistPiHole/
 #
 # List made to make Pi-Hole updating easier
+# There are a a few that are on other lists but since Pi-Hole does check for duplicates its not an issue
+#
 ad.ilcdn.fi
 admp-tc.kaleva.fi
 ap-online.media.fi
@@ -38,3 +40,5 @@ fra1-ib.adnxs.com
 ams1-ib.adnxs.com
 vcdn.adnxs.com
 xiti.com
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
