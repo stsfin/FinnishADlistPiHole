@@ -1,7 +1,7 @@
 # Title: Finnish Block list
 # Description: Filter Finnish lists
 # Last modified: Mon, 12 Sep 2019, 17:13 UTC+02
-# Version: 2019.0.0.1
+# Version: 2019.9.12.2
 # Repository: https://github.com/stsfin/FinnishADlistPiHole/
 # Based on: https://github.com/PolishFiltersTeam/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -22,3 +22,18 @@ www.ridemedia.fi
 admp-tc.kaleva.fi
 ap-online.media.fi
 embed.tapkal.fi
+analytics.sanoma.fi
+cjar.a-lehdet.fi
+da.yle.fi
+eas.almamedia.fi
+euroads.fi
+improveads.fi
+insight.fonecta.fi
+ko.snstatic.fi
+markkinointikuuri.fi
+metrics.gigantti.fi
+stat.iltalehti.fi
+stats.fonecta.fi
+adsby.improveads.fi
+crcdn01.adnxs.com
+fra1-ib.adnxs.com
