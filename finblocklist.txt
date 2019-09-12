@@ -37,3 +37,4 @@ stats.fonecta.fi
 adsby.improveads.fi
 crcdn01.adnxs.com
 fra1-ib.adnxs.com
+ams1-ib.adnxs.com
