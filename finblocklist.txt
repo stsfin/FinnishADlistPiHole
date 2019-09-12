@@ -1,0 +1,24 @@
+# Title: Finnish Block list
+# Description: Filter Finnish lists
+# Last modified: Mon, 12 Sep 2019, 17:13 UTC+02
+# Version: 2019.0.0.1
+# Repository: https://github.com/stsfin/FinnishADlistPiHole/
+# Based on: https://github.com/PolishFiltersTeam/KAD
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+# List made to make Pi-Hole updating easier
+ad.ilcdn.fi
+admp-tc.kaleva.fi
+ap-online.media.fi
+c1.hinta.fi
+cdn.nettix.fi
+embed.tapkal.fi
+jainos.fi
+monster.almamedia.fi
+monster2.almamedia.fi
+nayta.monster.fi
+vg.is.fi
+www.ridemedia.fi
+admp-tc.kaleva.fi
+ap-online.media.fi
+embed.tapkal.fi
